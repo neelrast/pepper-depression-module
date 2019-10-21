@@ -1,5 +1,5 @@
 
-This repository is for Pepper/Nao Applications to have lexical converrsations and do named entity recognition for easie dialog management.
+This repository is for Pepper/Nao Applications to have lexical conversations and do named entity recognition for easier dialog management.
 
 ## CLTL/Pepper Features
  - A Platform-Agnostic, Object-Oriented Framework for creating Robot Applications
