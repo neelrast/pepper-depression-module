@@ -8,9 +8,11 @@ This repository is for Pepper/Nao Applications to have lexical converrsations an
  - Knowledge Representation of Learned Facts through RDF Graph
  - Realtime visualisation in web browser (WIP)
 
-## To get started check `apps\example` folder to see how to play with CLTL API and develop your own dialog system as a Pepper App.
+To get started check `apps\example` & `apps\test` folder to see how to play with CLTL API and develop your own dialog system over Pepper's NaoQi App.
 
-## This project is adapted from VU Amsterdam - CLTL Project which created a brain module for pepper for easier knowledge update and represnetation, to check out their API docs:
+---
+
+Please Note: This project is adapted from VU Amsterdam - CLTL Project which was created to provide multimodal communication with knowledge graphs for pepper for easier knowledge update and represnetation.
+
+To check out their [API Docs](https://cltl.github.io/pepper/) for detailed information on the framework.
 Go to [WIKI](https://github.com/cltl/pepper/wiki) for information on [how it works](https://github.com/cltl/pepper/wiki/How-it-works) and [how to Install the package and run on pepper](https://github.com/cltl/pepper/wiki/Installation).
-
-Check out our [API Reference](https://cltl.github.io/pepper/) for detailed information on the framework.
