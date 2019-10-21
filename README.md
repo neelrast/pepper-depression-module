@@ -12,7 +12,7 @@ To get started check `apps\example` & `apps\test` folder to see how to play with
 
 ---
 
-Please Note: This project is adapted from VU Amsterdam - CLTL Project which was created to provide multimodal communication with knowledge graphs for pepper for easier knowledge update and represnetation.
+Please Note: This project is adapted from VU Amsterdam - CLTL Project which was created to provide multimodal communication with knowledge graphs for pepper to enable easier knowledge update and represnetation.
 
 To learn more about their framewok, check out their [API Docs](https://cltl.github.io/pepper/) for detailed information on the framework.
 
