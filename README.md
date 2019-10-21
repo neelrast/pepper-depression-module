@@ -1,2 +1,16 @@
-# pepper-depression-module
-This repo contains files for Pepper Robot's core dialog system and speech script for continued multimodal conversation.
+
+This repository is for Pepper/Nao Applications to have lexical converrsations and do named entity recognition for easie dialog management.
+
+## CLTL/Pepper Features
+ - A Platform-Agnostic, Object-Oriented Framework for creating Robot Applications
+ - The necessary Machine Learning algos implemented as class functions for enabling Human-Robot conversation
+ - Language Understanding through Grammars and Lexicals
+ - Knowledge Representation of Learned Facts through RDF Graph
+ - Realtime visualisation in web browser (WIP)
+
+## To get started check `apps\example` folder to see how to play with CLTL API and develop your own dialog system as a Pepper App.
+
+## This project is adapted from VU Amsterdam - CLTL Project which created a brain module for pepper for easier knowledge update and represnetation, to check out their API docs:
+Go to [WIKI](https://github.com/cltl/pepper/wiki) for information on [how it works](https://github.com/cltl/pepper/wiki/How-it-works) and [how to Install the package and run on pepper](https://github.com/cltl/pepper/wiki/Installation).
+
+Check out our [API Reference](https://cltl.github.io/pepper/) for detailed information on the framework.
